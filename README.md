@@ -1,16 +1,13 @@
-# iacc_metronomo
+# 🎵 Metrónomo Flutter App
 
-A new Flutter project.
+Una aplicación de metrónomo precisa, personalizable y responsiva construida con [Flutter](https://flutter.dev/). Ideal para músicos que necesitan practicar con control total sobre el tempo, los compases y sonidos.
 
-## Getting Started
+## ✨ Características
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🕒 Control preciso del tempo (BPM)
+- 🎚️ Aceleración/decadencia gradual de tempo (opcional)
+- 🔁 Soporte para compases simples y compuestos
+- 🔔 Sonido distintivo para el primer tiempo de cada compás
+- 🎨 Interfaz intuitiva y responsive
+- ⚙️ Configuración de tempo mínima y máxima
+- 📱 Soporte multiplataforma: Android, iOS, Web y Desktop
